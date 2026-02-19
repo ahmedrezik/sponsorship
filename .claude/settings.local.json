@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -m pip install:*)",
+      "Bash(brew list:*)",
+      "Bash(pyenv versions:*)",
+      "Bash(conda info:*)",
+      "Bash(/usr/local/opt/python@3.13/bin/python3 -m pip install:*)",
+      "Bash(/Users/ahmed/Desktop/Sponsor/.venv/bin/python3:*)",
+      "Bash(curl:*)",
+      "Bash(ps:*)"
+    ]
+  }
+}
