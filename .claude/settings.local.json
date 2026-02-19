@@ -10,5 +10,11 @@
       "Bash(curl:*)",
       "Bash(ps:*)"
     ]
+  },
+  "env": {
+    "CLAUDE_CODE_USE_FOUNDRY": "1",
+    "ANTHROPIC_FOUNDRY_RESOURCE": "last-resource",
+    "ANTHROPIC_FOUNDRY_API_KEY": "9NVNigexEu1wx1641YhX8UPeywxH2D4DPgGDSnPTTuGf1NRALmRMJQQJ99BKACfhMk5XJ3w3AAAAACOGOInM",
+    "ANTHROPIC_DEFAULT_OPUS_MODEL": "claude-opus-4-5"
   }
 }
